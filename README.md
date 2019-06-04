@@ -16,7 +16,7 @@ Harika Naidu<br>
 https://github.com/HavyaRavipati/pmbok
 
 ## GitHub pages link:
-https://havyaravipati.github.io/quizmvp/
+https://havyaravipati.github.io/pmbok/
 
 ## References:
 This MVP was developed using certain references from: <br>
